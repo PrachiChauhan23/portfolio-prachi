@@ -58,7 +58,7 @@ const navTogglerBtn = document.querySelector(".nav-toggler"),
 
 //Typing Animations
 var typed = new Typed(".typing",{
-    strings:["","Web Designer","Fullstack Developer", "Web Developer", "UI & UX Designer"],
+    strings:["","Fullstack Developer", "Web Developer"],
     typedSpeed: 100,
     backSpeed: 60,
     loop:true
