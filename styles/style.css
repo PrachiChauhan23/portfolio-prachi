@@ -321,6 +321,8 @@ ul {
 }
 
 .home .home-img {
+    display: flex;
+    justify-content: center;
     flex: 0 0 40%;
     max-width: 40%;
     position: relative;
@@ -364,7 +366,7 @@ ul {
 }
 
 .home .home-img img {
-    height: 400px;
+    height: 350px;
     margin: auto;
     border-radius: 5px;
 }
